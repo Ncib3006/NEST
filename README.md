@@ -9,13 +9,13 @@ Classical pairs trading often enters positions whenever a normalized spread beco
 
 ## Core idea
 
-For a pair of assets \((A,B)\), we construct a spread
+For a pair of assets $(A,B)$, we construct a spread
 
 $$
 S_t^{A,B} = X_t^A - \beta_t^{A,B} X_t^B,
 $$
 
-where \(X_t^A\) and \(X_t^B\) are log-prices and \(\beta_t^{A,B}\) is a hedge ratio.
+where $X_t^A$ and $X_t^B$ are log-prices and $\beta_t^{A,B}$ is a hedge ratio.
 
 The project studies whether machine learning can improve classical spread trading by learning the map
 

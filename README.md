@@ -1,6 +1,5 @@
-# stat-arb
+# NEST: Not Every Spread Is a Trade
 
-**NEST: Not Every Spread Is a Trade**
 
 A volatility-aware machine learning framework for statistical arbitrage and pairs trading.
 

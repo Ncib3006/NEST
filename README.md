@@ -3,8 +3,6 @@
 
 A volatility-aware machine learning framework for statistical arbitrage and pairs trading.
 
-The central idea is simple:
-
 > A spread is not a trade. A spread is only a candidate state.
 
 Classical pairs trading often enters positions whenever a normalized spread becomes large. NEST instead asks whether the spread is actually tradeable after accounting for expected PnL, volatility, transaction costs, and regime effects.
